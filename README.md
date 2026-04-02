@@ -14,7 +14,16 @@ This project is a modern **Kotlin & Android** port of the classic **Super Star T
 Upon running the app, you will be prompted for a command (`COMMAND>`). You must navigate the galaxy and manage your ship's resources within the limited timeframe (Stardates) granted by Starfleet Command.
 Your goal is to eliminate all remaining Klingon warships and save the Federation!
 
-*   **NAV:** Engage warp engines to change your course ('1-9' clock-face layout) and speed (Warp factor: '0-8').
+*   **NAV:** Engage warp engines to change your course and speed (Warp factor: '0-8'). Course vectors are based on the traditional 1-9 clock-face layout, where the Enterprise is situated at the center:
+    ```text
+          4   3   2
+           \  |  /      (North = 3)
+            \ | /
+      5 ----- * ----- 1 (East = 1)
+            / | \
+           /  |  \
+          6   7   8
+    ```
 *   **SRS:** Perform a Short Range Sensor scan to print the map of your current galactic quadrant (costs no energy).
 *   **LRS:** Perform a Long Range Sensor scan to radar-sweep adjacent galactic quadrants.
 *   **PHA:** Fire Phasers at enemy ships by distributing your available energy.
