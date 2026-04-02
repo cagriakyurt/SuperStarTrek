@@ -1,5 +1,7 @@
 # Super Star Trek (Android Port)
 
+📥 **Looking for the playable APK?** [Download the latest Android release here! (v1.0.0)](https://github.com/cagriakyurt/SuperStarTrek/releases/tag/v1.0.0)
+
 This project is a modern **Kotlin & Android** port of the classic **Super Star Trek** (BASIC) game, originally released in 1978. It has been entirely rewritten from scratch for modern mobile devices using Android Studio, meticulously preserving the authentic rules, mechanics, and spirit of the original original source code.
 
 ## Features
