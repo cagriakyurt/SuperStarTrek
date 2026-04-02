@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color terminal_green
+color terminal_green_dark
+drawable ic_launcher_background
+drawable ic_sst_bg
+drawable ic_sst_fg
+id btnSend
+id etInput
+id inputContainer
+id scrollView
+id tvConsole
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+mipmap ic_sst_launcher
+string app_name
+style Theme.SuperStarTrek
